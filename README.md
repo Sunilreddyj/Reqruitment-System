@@ -12,7 +12,7 @@ A full-stack web application to simplify the hiring process — allowing recruit
 - 🧾 Application tracking dashboard  
 - 🔐 Secure login/signup with role-based access
 
----
+---_
 
 ## 🛠️ Tech Stack
 
